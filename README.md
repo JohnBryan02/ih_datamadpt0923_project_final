@@ -1,7 +1,7 @@
 # ih_datamadpt0923_project_final
 
 # Data Project README file
-![Arquitectura](data/arquitectura.jpg)
+![Arquitectura](data/arquitectura.png)
 
 ### :raising_hand: **Nombre** 
 Rendimiento
