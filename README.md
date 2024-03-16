@@ -9,6 +9,7 @@ MVP
 
 ### :running: **Utilidad**
 Este proyecto sirve para gestionar la calidad de los empleados en base a diferentes métricas las cuales nos genera una puntuación para posteriormente generar un mensaje de ayuda al empleado para seguir con su desempeño optimo.
+Aparte encontraremos una visualización para poder debatir con cada empleado cada una de las métricas.
 
 ### :computer: **Herramientas**
 - Tableau
